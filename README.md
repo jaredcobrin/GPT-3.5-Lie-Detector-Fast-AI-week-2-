@@ -1,6 +1,6 @@
 # GPT-3.5-Hallucination-Detector-Fast-AI-week-2-
 
-I built this to catch GPT-3.5 when it makes things up. It’s a BERT-based classifier trained on ~30k examples of AI hallucinations (HaluEval).
+I built this to catch GPT-3.5 when it makes things up. It’s a BERT-based classifier trained on 20k examples of AI hallucinations (HaluEval).
 
 Try the Live Demo on Hugging Face: https://huggingface.co/spaces/jaredcobrin/ai-lie-detector 
 
