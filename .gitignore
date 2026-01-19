@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Additions
+
+
+# 1. AI Model Weights 
+# These stay on Hugging Face, not GitHub
+*.safetensors
+*.bin
+*.pth
+*.h5
+*.ckpt
+*.onnx
+*.gguf
+
+# 2. Datasets 
+# These stay on Kaggle
+*.csv
+*.tsv
+*.jsonl
+data/
+raw_data/
+
+# 3. Mac-Specific
+.DS_Store
